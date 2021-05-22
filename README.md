@@ -17,16 +17,17 @@
 ## Description:
 * User directoy
 ## Installation:
-* 
+* Clone repo, npm i, npm start
 ## Usage:
 * 
 ## license:
 * None
         
 ## Contributing:
+n/a
 * 
 ## Testing:
-* 
+* n/a
 ## Questions:
 * Contact Mike gordillo with any questions at mikegordillotattoo@gmail.com
 
