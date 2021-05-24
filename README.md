@@ -33,7 +33,7 @@ n/a
 
 ![screenshot](./public/employeeview.png)
 
-https://github.com/MikeGordillo/README_md_Generator
-
+https://github.com/MikeGordillo/React-User-Directory
+https://mikegordillo.github.io/React-User-Directory/
 
       
